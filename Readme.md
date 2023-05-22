@@ -16,3 +16,5 @@ This is a repo help you to understand and launch Kafka cluster
 2. Then load the data in MYSQL and produce data using the kafka producer.
 
 3.then load the data in cassandra
+
+![Screenshot (6)](https://github.com/Satyam20091998/Spark-Kafka-MongoDB/assets/92753984/4e2fa654-e3d8-4d50-aeba-a10fd03c5812)
